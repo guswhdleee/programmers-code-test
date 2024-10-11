@@ -13,3 +13,5 @@ function solution(num_list) {
   }
   return answer;
 }
+
+// 테스트
